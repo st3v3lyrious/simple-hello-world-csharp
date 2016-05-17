@@ -4,3 +4,17 @@ c:\users\selom\documents\visual studio 2015\Projects\Helloworld\Helloworld\bin\D
 c:\users\selom\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
 c:\users\selom\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.exe
 c:\users\selom\documents\visual studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\FireSharp.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\Newtonsoft.Json.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\selom\Documents\Visual Studio 2015\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.App.config
